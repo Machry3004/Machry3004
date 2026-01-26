@@ -66,7 +66,7 @@ Tableau • AI-assisted analysis
 </p>
 
 <h3>Skill Intensity</h3>
-<https://github.com/Machry3004/Machry3004/blob/main/skill-intensity-dark.png>
+<img src="https://github.com/Machry3004/Machry3004/blob/main/skill-intensity-dark.png"
 
 <br>
 
