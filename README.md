@@ -1,16 +1,97 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Manigandan Acharya</h1>
+<h3 align="center">MIS & Data Analysis</h3>
 
-<!--
-**Machry3004/Machry3004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<h3>Profile Views</h3>
+<img src="https://komarev.com/ghpvc/?username=Machry3004&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br><br>
+
+<p>
+<img align="right" src="https://raw.githubusercontent.com/Machry3004/Machry3004/main/assets/dashboard-animation.gif" width="420" />
+</p>
+
+<ul>
+  <li>📊 Focused on analytical insight, KPI tracking, and MIS dashboards</li>
+  <li>⚡ Known for speed, accuracy, and AI-assisted automation</li>
+  <li>🧠 Strong in Power BI, Excel automation, SQL, and data modeling</li>
+  <li>📈 Experience analyzing 500+ employees and 9,000+ SKUs</li>
+  <li>📫 Reach me at <strong><a href="mailto:acharya.manishh@gmail.com">acharya.manishh@gmail.com</a></strong></li>
+</ul>
+
+<br>
+
+<h3 align="left">Connect with me</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/manigandan-acharya-3727a429a/" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
+
+  <a href="mailto:acharya.manishh@gmail.com">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" height="30" width="40" />
+  </a>
+
+  <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+  </a>
+
+  <a href="https://github.com/Machry3004" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" />
+  </a>
+</p>
+
+
+<br>
+
+<h3 align="left">Languages and Tools</h3>
+
+<p align="left">
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" />
+  <img src="https://img.icons8.com/color/48/power-bi.png" />
+  <img src="https://img.icons8.com/ios-filled/50/4a90e2/sql.png" />
+  <img src="https://img.icons8.com/color/48/tableau-software.png" />
+  <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-artificial-intelligence-technology-ecommerce-flaticons-flat-flat-icons.png" />
+</p>
+
+<p>
+Excel (Advanced formulas, Pivot Tables, Automation)<br>
+Power BI (DAX, Data Modeling, KPI Dashboards)<br>
+SQL (Joins, Aggregations, Optimization)<br>
+Tableau • AI-assisted analysis
+</p>
+
+<br>
+
+<h3>Featured Projects</h3>
+
+<ul>
+  <li><strong>HR Attrition Analytics</strong> – Identified overtime as cause of 66% attrition; reduced reporting time by 40%</li>
+  <li><strong>Sales Performance Dashboard</strong> – Automated revenue, margin, growth, and variance tracking</li>
+  <li><strong>Blinkit E-commerce Analytics</strong> – Analyzed ₹1.20M revenue across 9,000 SKUs</li>
+</ul>
+
+<br>
+
+<h3>Skill Intensity</h3>
+<img src="assets/skill-intensity.png" width="520">
+
+<h3>Project Impact</h3>
+<img src="assets/project-impact.png" width="520">
+
+<h3>Automation Impact</h3>
+<img src="assets/automation-before-after.png" width="520">
+
+
+<br>
+
+<h3>Statistical Data</h3>
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=Machry3004&show_icons=true&theme=tokyonight&hide_border=true" width="420" />
+</p>
+
+<p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Machry3004&theme=tokyonight&hide_border=true" width="420" />
+</p>
+>
