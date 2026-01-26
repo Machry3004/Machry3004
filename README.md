@@ -67,7 +67,7 @@ Tableau • AI-assisted analysis
 </p>
 
 <h3>Skill Intensity</h3>
-<img src="https://github.com/Machry3004/Machry3004/blob/main/skill-intensity-dark.png"
+<img src="https://github.com/Machry3004/Machry3004/blob/main/skill-intensity-dark.png" Height=350 width=350/>
 
 <br>
 
@@ -82,10 +82,10 @@ Tableau • AI-assisted analysis
 <br>
 
 <h3>Project Impact</h3>
-<img src="https://github.com/Machry3004/Machry3004/blob/89d787bb9a8558d5ac0997bb49a6313a08a12163/Project%20impact.png"
+<img src="https://github.com/Machry3004/Machry3004/blob/89d787bb9a8558d5ac0997bb49a6313a08a12163/Project%20impact.png" Height=350 width=350/>
 
 <h3>Automation Impact</h3>
-<img src="https://github.com/Machry3004/Machry3004/blob/b1b777d880bc04ed380f05c274ff8852ee22ba94/automation-before-after-dark.png"
+<img src="https://github.com/Machry3004/Machry3004/blob/b1b777d880bc04ed380f05c274ff8852ee22ba94/automation-before-after-dark.png" Height=350 width=350/>
 
 
 
