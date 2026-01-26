@@ -29,7 +29,7 @@
   </a>
 
   <a href="mailto:acharya.manishh@gmail.com">
-   
+    <img src="https://github.com/Machry3004/Machry3004/blob/5f9503ee976f4e71a84d828c7b9b67357ee77538/gmail.png"  height="30" width="40" />
    
 
   <a href="https://www.instagram.com/_uncrowned_strength/" target="blank">
