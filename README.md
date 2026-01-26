@@ -81,12 +81,9 @@ Tableau • AI-assisted analysis
 <br>
 
 <h3>Project Impact</h3>
-<img src="assets/project-impact.png" width="520">
-PNG - https://github.com/Machry3004/Machry3004/blob/main/project-impact-dark.png
-
 
 <h3>Automation Impact</h3>
-<img src="assets/automation-before-after.png" width="520">
+<img src="https://github.com/Machry3004/Machry3004/blob/b1b777d880bc04ed380f05c274ff8852ee22ba94/automation-before-after-dark.png"
 
 
 
