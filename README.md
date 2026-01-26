@@ -43,15 +43,21 @@
 
 
 <br>
-
 <h3 align="left">Languages and Tools</h3>
-
 <p align="left">
-  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" />
-  <img src="https://img.icons8.com/color/48/power-bi.png" />
-  <img src="https://img.icons8.com/ios-filled/50/4a90e2/sql.png" />
-  <img src="https://img.icons8.com/color/48/tableau-software.png" />
-  <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-artificial-intelligence-technology-ecommerce-flaticons-flat-flat-icons.png" />
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="Excel" />
+  <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" />
+  <img src="https://img.icons8.com/nolan/64/sql.png" alt="SQL" />
+  <img src="https://img.icons8.com/color/48/tableau-software.png" alt="Tableau" />
+  <img src="https://img.icons8.com/color/48/postgreesql.png" alt="PostgreSQL" />
+  <img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" alt="AI" />
+  <img src="https://img.icons8.com/color/48/chatgpt.png" alt="ChatGPT" />
+  <img src="https://img.icons8.com/color/48/zapier.png" alt="Zapier" />
+  <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png"
+  alt="n8n"
+  height="58"
+  width="56"
+  style="background:#ffffff;"
 </p>
 
 <p>
