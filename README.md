@@ -29,8 +29,8 @@
   </a>
 
   <a href="mailto:acharya.manishh@gmail.com">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" height="30" width="40" />
-  </a>
+   
+   
 
   <a href="https://www.instagram.com/_uncrowned_strength/" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
