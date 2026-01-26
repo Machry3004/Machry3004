@@ -32,7 +32,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" height="30" width="40" />
   </a>
 
-  <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" target="blank">
+  <a href="https://www.instagram.com/_uncrowned_strength/" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
   </a>
 
@@ -53,11 +53,9 @@
   <img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" alt="AI" />
   <img src="https://img.icons8.com/color/48/chatgpt.png" alt="ChatGPT" />
   <img src="https://img.icons8.com/color/48/zapier.png" alt="Zapier" />
-  <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png"
-  alt="n8n"
-  height="58"
-  width="56"
-  style="background:#ffffff;"
+
+</p>
+  
 </p>
 
 <p>
