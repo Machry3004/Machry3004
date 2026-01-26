@@ -79,6 +79,8 @@ https://github.com/Machry3004/Machry3004/blob/main/skill-intensity-dark.png
 
 <h3>Project Impact</h3>
 <img src="assets/project-impact.png" width="520">
+PNG - https://github.com/Machry3004/Machry3004/blob/main/project-impact-dark.png
+
 
 <h3>Automation Impact</h3>
 <img src="assets/automation-before-after.png" width="520">
