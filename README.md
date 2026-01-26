@@ -61,6 +61,10 @@ SQL (Joins, Aggregations, Optimization)<br>
 Tableau • AI-assisted analysis
 </p>
 
+<h3>Skill Intensity</h3>
+<img src="assets/skill-intensity.png" width="520">
+
+
 <br>
 
 <h3>Featured Projects</h3>
@@ -73,14 +77,12 @@ Tableau • AI-assisted analysis
 
 <br>
 
-<h3>Skill Intensity</h3>
-<img src="assets/skill-intensity.png" width="520">
-
 <h3>Project Impact</h3>
 <img src="assets/project-impact.png" width="520">
 
 <h3>Automation Impact</h3>
 <img src="assets/automation-before-after.png" width="520">
+
 
 
 <br>
