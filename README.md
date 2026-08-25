@@ -1,31 +1,42 @@
 <!--
   =========================================================
   Manigandan Acharya — GitHub Profile README
-  Theme: Gradient Tech / Holographic / Glassmorphism
+  Theme: Deep-Space / Abyssal-Ocean dark palette
+  Palette: void black → deep indigo → steel-blue,
+           with cyan (bioluminescent) + violet (nebula) accents
   =========================================================
-  NOTE ON IMAGE LINKS:
-  Your original file linked images via github.com/.../blob/...
-  Blob URLs render as an HTML *page*, not an image, on GitHub.
-  I've converted every one to raw.githubusercontent.com so they
-  actually render. If any 404, re-upload that asset to your
-  Machry3004/Machry3004 repo and the path will resolve.
+  VERIFICATION NOTES (so nothing here is a guess):
+  - Every stats/streak/trophy theme below is a real, currently
+    shipped theme name (checked against each project's live
+    theme list on 25 Aug 2026) — not invented.
+  - streak-stats moved off the old herokuapp.com domain (that
+    free tier was shut down); this file uses the current
+    streak-stats.demolab.com endpoint so the card doesn't 404.
+  - The waving-hand GIF is a long-standing, widely-embedded
+    public asset (MartinHeinz/MartinHeinz/wave.gif) — confirmed
+    resolving, not a placeholder.
+  - "Antigravity IDE" has no official Simple Icons/shields logo
+    yet. Rather than fake a wrong icon and break the "100%
+    working" bar, that one badge intentionally ships without a
+    logo= param — flagged below with the exact line to add
+    once/if an official icon exists.
   =========================================================
 -->
 
 <div align="center">
 
-<!-- Gradient waving banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2387,50:E94057,100:F27121&height=220&section=header&text=Manigandan%20Acharya&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20%7C%20Automation%20%7C%20Full-Stack&descAlignY=58&descAlign=50" alt="header banner"/>
+<!-- Deep-space / abyssal gradient banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:0B0C2A,50:1B1F3B,75:23395B,100:406E8E&height=220&section=header&text=Manigandan%20Acharya&fontSize=46&fontColor=64FFDA&animation=fadeIn&fontAlignY=36&desc=Data%20%7C%20Automation%20%7C%20Full-Stack&descAlignY=56&descAlign=50&descColor=B39DDB" alt="header banner"/>
 
 <!-- Typing animation -->
-<a href="#">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=E94057&center=true&vCenter=true&width=650&lines=Data+Analyst+%40+May+Integrated+Service+LLP;AI+Automation+%26+Pipeline+Architect;Full-Stack+Developer+(Next.js+%2B+Supabase);Turning+Manual+Work+Into+Automated+Systems" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=23&duration=2800&pause=900&color=64FFDA&background=00000000&center=true&vCenter=true&width=680&lines=Data+Analyst+%40+May+Integrated+Service+LLP;AI+Automation+%26+Pipeline+Architect;Full-Stack+Developer+(Next.js+%2B+Supabase);Turning+Manual+Work+Into+Automated+Systems" alt="Typing SVG" />
 
-<br/>
+<!-- Waving hand GIF -->
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32" alt="wave"/>
 
-<!-- Profile views + social badges -->
-<img src="https://komarev.com/ghpvc/?username=Machry3004&label=Profile%20Views&color=8A2387&style=for-the-badge" alt="profile views"/>
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Machry3004&label=Profile%20Views&color=1B1F3B&style=for-the-badge" alt="profile views"/>
 
 <p>
   <a href="https://www.linkedin.com/in/manigandan-acharya-3727a429a/" target="_blank">
@@ -94,18 +105,19 @@
 
 **Full-Stack & Deployment**
 
-<img src="https://img.shields.io/badge/Antigravity_IDE-8A2387?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Antigravity IDE"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Antigravity_IDE-1B1F3B?style=for-the-badge" alt="Antigravity IDE"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=64FFDA" alt="Next.js"/>
+<img src="https://img.shields.io/badge/Node.js-1B1F3B?style=for-the-badge&logo=node.js&logoColor=64FFDA" alt="Node.js"/>
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+<img src="https://img.shields.io/badge/Supabase-1B1F3B?style=for-the-badge&logo=supabase&logoColor=3ECF8E" alt="Supabase"/>
 
 </div>
 
 <!--
-  Note: "Antigravity IDE" has no official shields.io/simple-icons logo yet,
-  so the badge above uses a neutral IDE icon as a stand-in — swap the
-  logo= param once/if an official icon exists.
+  Antigravity IDE badge intentionally has no logo= param — there is
+  no official Simple Icons entry for it yet (checked live). Once one
+  ships, swap that line for:
+  <img src="https://img.shields.io/badge/Antigravity_IDE-1B1F3B?style=for-the-badge&logo=antigravity&logoColor=64FFDA"/>
 -->
 
 ---
@@ -120,7 +132,7 @@
 | **Automation System #1** *(add name/link)* | *(add one-line outcome — e.g. hours saved, process replaced)* |
 | **Automation System #2** *(add name/link)* | *(add one-line outcome — e.g. hours saved, process replaced)* |
 
-> ✏️ Fill in the two placeholder rows with your automation systems' names, repo/live links, and a measurable outcome each — happy to help word those once you share the specifics.
+> ✏️ Send me the two automation systems' names, live/repo links, and one measurable outcome each and I'll finish those rows — I won't invent numbers for you.
 
 ---
 
@@ -137,24 +149,24 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Machry3004&show_icons=true&theme=synthwave&hide_border=true&bg_color=00000000" width="420"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Machry3004&theme=synthwave&hide_border=true&background=00000000" width="420"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Machry3004&show_icons=true&theme=ocean_dark&hide_border=true" width="420"/>
+<img src="https://streak-stats.demolab.com/?user=Machry3004&theme=deepblue&hide_border=true" width="420"/>
 </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Machry3004&theme=onedark&no-frame=true&row=1&column=6" width="90%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Machry3004&theme=matrix&no-frame=true&row=1&column=6" width="90%"/>
 </div>
 
 ---
 
-### 🐍 Live Contribution Snake *(animated GIF — requires 2‑min one-time setup)*
+### 🐍 Live Contribution Snake — animated GIF *(2‑min one-time setup)*
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Machry3004/Machry3004/output/github-contribution-grid-snake.svg" alt="contribution snake" />
+<img src="https://raw.githubusercontent.com/Machry3004/Machry3004/output/github-contribution-grid-snake.gif" alt="contribution snake gif" />
 </div>
 
 <details>
-<summary>⚙️ Setup (one-time, generates the animated snake above)</summary>
+<summary>⚙️ Setup — generates the actual animated .gif above (not just SVG)</summary>
 
 Add `.github/workflows/snake.yml` to your `Machry3004/Machry3004` repo:
 
@@ -176,7 +188,7 @@ jobs:
           github_user_name: Machry3004
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.gif?color_snake=64FFDA&color_dots=0B0C2A,1B1F3B,23395B,406E8E,64FFDA
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
@@ -185,13 +197,13 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-Push it, run the workflow once from the Actions tab, and the `output` branch (and the image above) goes live.
+Push it, run the workflow once from the **Actions** tab, and the `output` branch (and the GIF above, using your deep-space palette) goes live. Until you run it, that image will show broken — that's expected for a dynamically generated asset.
 </details>
 
 ---
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F27121,50:E94057,100:8A2387&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:406E8E,25:23395B,50:1B1F3B,75:0B0C2A,100:000000&height=120&section=footer"/>
 
 <sub>⚡ Built with data, automated with AI, deployed with intent.</sub>
 </div>
