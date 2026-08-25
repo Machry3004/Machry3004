@@ -187,8 +187,8 @@ jobs:
         with:
           github_user_name: Machry3004
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake.gif?color_snake=64FFDA&color_dots=0B0C2A,1B1F3B,23395B,406E8E,64FFDA
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.gif?color_snake=B39DDB&color_dots=161B22,12263A,1B3A5C,2C6E9E,64FFDA&color_background=0D1117
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
